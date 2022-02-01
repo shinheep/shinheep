@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi there, I'm Shinhee! 👋</h1>
 
-Former teacher turned Software Engineer designing websites since her MySpace and Xangadays. Currently, building with MERN stack, but on a constant journey to learn new technologies. Programming is fun!
+Former teacher turned Software Engineer designing websites since her MySpace and Xanga days. Currently, building with MERN stack, but on a constant journey to learn new technologies. Programming is fun!
 
 <h2 align="center">About me 💭</h2>
 
