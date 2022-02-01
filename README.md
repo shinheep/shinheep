@@ -11,7 +11,7 @@ Check out my [Portfolio](https://shinheep.github.io/)!
 In my latest project, I created a Plant Database App 🪴, called [Plantify](https://shinheep.github.io/Plantify/#/), which allows a user to do a controlled search for their plant and learn about the specifics of each. I created this project purely out of my love for plants, and wanting a place where I could collect and view all of my favorites.
 
 Fun facts: <br>
-💻 I received my **Bachelors Degree** in Psychology, and Communication, and have completed a Software Engineering bootcamp from General Assembly. <br>
+💻 I received my **Bachelors Degree** in Psychology, and Communication, and have completed a **Software Engineering Bootcamp** from General Assembly. <br>
 🐶 I am a proud **plant** and **dog** mom! <br>
 🌝 My Myers-Briggs is **INFP**! What's yours? <br>
 🌸 Ask me about my enneagram!
