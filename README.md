@@ -4,7 +4,7 @@
 
 Former teacher turned Software Engineer, designing websites since her MySpace and Xanga days. Currently, building with MERN stack, but on a constant journey to learn new technologies. Programming is fun!
 
-<h2 align="center">My Tech Stack</h2>
+<h2 align="center">My Tech Stack 👩🏻‍💻</h2>
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" height="50"/>
