@@ -12,6 +12,8 @@ In my latest project, I created a Plant Database App 🪴, called [Plantify](htt
 
 <h2 align="center">My Tech Stack</h2>
 
+img{background-color:transparent}
+
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" height="50"/>
   <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" width="50" height="50"/>
