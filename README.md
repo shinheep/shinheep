@@ -16,7 +16,7 @@ In my latest project, I created a Plant Database App 🪴, called [Plantify](htt
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" height="50"/>
   <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" width="50" height="50"/>
   <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" width="50" height="50"/>
-  <img src="https://image.pngaaa.com/875/2507875-small.png" width="50" height="50"/>
+  <img src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" width="50" height="50"/>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" height="50"/>
   <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="50" height="50"/>
   <img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" width="50" height="50"/>
