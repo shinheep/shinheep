@@ -1,5 +1,7 @@
 ### <h1 align="center">Hi there, I'm Shinhee! 👋</h1>
 
+![Alt Text](https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif)
+
 Former teacher turned Software Engineer, designing websites since her MySpace and Xanga days. Currently, building with MERN stack, but on a constant journey to learn new technologies. Programming is fun!
 
 <h2 align="center">About me 💭</h2>
