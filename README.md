@@ -4,12 +4,6 @@
 
 Former teacher turned Software Engineer, designing websites since her MySpace and Xanga days. Currently, building with MERN stack, but on a constant journey to learn new technologies. Programming is fun!
 
-<h2 align="center">About me 💭</h2>
-
-Check out my [Portfolio](https://shinheep.github.io/)!
-
-In my latest project, I created a Plant Database App 🪴, called [Plantify](https://shinheep.github.io/Plantify/#/), which allows a user to do a controlled search for their plant and learn about the specifics of each. I created this project purely out of my love for plants, and wanting a place where I could collect and view all of my favorites.
-
 <h2 align="center">My Tech Stack</h2>
 
 <p align="center">
@@ -22,6 +16,12 @@ In my latest project, I created a Plant Database App 🪴, called [Plantify](htt
   <img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" width="50" height="50"/>
   <img src="https://pngset.com/images/node-js-nodejs-number-symbol-text-recycling-symbol-transparent-png-1383018.png" width="50" height="50"/>
 </p>
+
+<h2 align="center">About me 💭</h2>
+
+Check out my [Portfolio](https://shinheep.github.io/)!
+
+In my latest project, I created a Plant Database App 🪴, called [Plantify](https://shinheep.github.io/Plantify/#/), which allows a user to do a controlled search for their plant and learn about the specifics of each. I created this project purely out of my love for plants, and wanting a place where I could collect and view all of my favorites.
 
 
 Fun facts: <br>
