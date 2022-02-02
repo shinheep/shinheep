@@ -21,7 +21,7 @@ Former teacher turned Software Engineer, designing websites since her MySpace an
 
 Check out my [Portfolio](https://shinheep.github.io/)!
 
-In my latest project, I created a Plant Database 🪴 Web Application, called [Plantify](https://shinheep.github.io/Plantify/#/), which allows a user to do a controlled search for their plant and learn about the specifics of each. I created this project purely out of my love for plants, and wanting a place where I could collect and view all of my favorites.
+In my latest project, I created a Plant Database 🪴 Web Application, called [Plantify](https://shinheep.github.io/Plantify/#/), which allows a user to do a controlled search for their plant and learn about the specifics of each. I created this project purely out of my love for plants, and wanting a place where others could learn more about different types of plants.
 
 
 Fun facts: <br>
