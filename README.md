@@ -7,7 +7,7 @@ Former teacher turned Software Engineer, designing websites since her MySpace an
 <h2 align="center">My Tech Stack 👩🏻‍💻</h2>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" height="50"/>
+  <img src="https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" width="50" height="50"/>
   <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" width="50" height="50"/>
   <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" width="50" height="50"/>
   <img src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" width="50" height="50"/>
