@@ -36,7 +36,7 @@ Fun facts: <br>
 💻 I received my **Bachelors Degree** in Psychology, and Communication, and have completed a **Software Engineering Bootcamp** from General Assembly. <br>
 🐶 I am a proud **plant** and **dog** mom! <br>
 🌝 My Myers-Briggs is **INFP**! What's yours? <br>
-🌸 Ask me about my enneagram!
+🌸 Ask me about my **enneagram**!
 
 <p align="center">I come from, what they call, an "unconventional" Software Engineer background. I love connecting with different people from all walks of life, so please feel free to say hi! ☺️</p>
 
