@@ -38,7 +38,7 @@ Fun facts: <br>
 🌝 My Myers-Briggs is **INFP**! What's yours? <br>
 🌸 Ask me about my **enneagram**!
 
-<p align="center">I love connecting with different people from all walks of life, so please feel free to say hi! ☺️</p>
+<p align="center">I love connecting with different people from all walks of life, so please feel free to say hi! 😄</p>
 
 <!--
 **shinheep/shinheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
