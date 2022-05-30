@@ -35,7 +35,7 @@ In my latest project, I created a Plant Database 🪴 Web Application, called [P
 Fun facts: <br>
 💻 I received my **Bachelors Degree** in Psychology, and Communication, and have completed a **Software Engineering Bootcamp** from General Assembly. <br>
 🐶 I am a proud **plant** and **dog** mom! <br>
-🌝 My Myers-Briggs is **INFP**! What's yours? <br>
+🌝 My Myers-Briggs is **INFP**! <br>
 🌸 **Enneagram 9**!
 
 <p align="center">I love connecting with different people from all walks of life, so please feel free to say hi! 😄</p>
